@@ -531,6 +531,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Sprout Social](https://sproutsocial.com) | [@sproutsocial](https://twitter.com/sproutsocial) | $99/mo - $249/mo | Powerful Social Media Software. Sprout lets you post messages on Facebook, Twitter, Google+ and LinkedIn simultaneously from one easy-to-use message composition tool. Shorten links, attach photos, target your audience on Facebook, customize your posts and much more. |
 | [F5Bot](https://f5bot.com) | - | Free | F5Bot is Free social media keyword monitoring. F5Bot will send you an email when your startup, your product, or your competitors are mentioned on Hacker News or Reddit. |
 | [Syften](https://syften.com) | [@syften_com](https://twitter.com/syften_com) | $15/mo - $49/mo | Advanced social monitoring for tech startups. |
+| [Y.gy](https://app.y.y) | [@mayakyler](https://twitter.com/mayakyler) | $4/mo - $10/mo - $40/mo | Link Shortener and QR Code Creator. Y.gy allows you to shorten Links, make QR codes, analyze traffic, and stop bots -- plus, you can do everything by API! 
 
 ## Naming
 
