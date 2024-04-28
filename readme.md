@@ -505,6 +505,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Instapage](https://instapage.com/) | [@Instapage](https://twitter.com/Instapage) | $29/mo - $127/mo | A landing page solution for optimizing your ad spend. Build, Integrate, Collaborate & Optimize. |
 | [KickoffLabs](https://kickofflabs.com) | [@kickofflabs](https://twitter.com/kickofflabs) | $29/mo - $99/mo | Stop building landing pages. Start building smarter campaigns. Send customers to a tailored page that speaks to them. Keep them engaged with signup-forms, newsletters and – best of all – a very cool, unique REWARD system for customer referrals. |
 | [Prefinery](https://www.prefinery.com) | [@prefinery](https://twitter.com/prefinery) | $19/mo- $399/mo | Stress-Free Beta Invitation and Management. Prefinery is beta invitations & management for serious product launches. You need more than just a landing page -- outsource your beta to Prefinery! |
+| [GetWaitlist](https://www.getwaitlist.com) | [@getwaitlist](https://twitter.com/getwaitlist) | Free - $33/mo- $167/mo | Quick and Easy Waitlist creation and management system. GetWaitlist enables you to create viral loops for your product launch with built-in referral and email marketing, analytics, leaderboards, captcha and more. |
 
 ## CRM/Sales Tools
 
