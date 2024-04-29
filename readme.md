@@ -49,6 +49,7 @@ It's on GitHub for a reason! Please submit pull requests.
     * [Email Marketing](#email-marketing)
     * [Sources of Clicks/Ad Platforms](#sources-of-clicksad-platforms)
     * [Transactional Email](#transactional-email)
+    * [Changelog](#changelog)
   * Productivity
     * [Group Communication/Chat Tools](#group-communicationchat-tools)
     * [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
@@ -749,7 +750,6 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Uservoice](https://www.uservoice.com/) | [@UserVoice](https://twitter.com/uservoice) | $499/mo - $999+/mo | Collect, understand and respond to user feedback. |
 | [Userecho](https://userecho.com/) | [@userecho](https://twitter.com/userecho) | - | - |
-| [UpdateMaker](https://updatemaker.com/) | [@mayakyler](https://twitter.com/mayakyler) | Free - $23/mo - $39/mo | Delightful in-app updates. Easily inform users of new features and changes to your product. Ditch the separate changelog, help users identify new features and engage with your audience. |
 
 ## Designers
 
@@ -805,6 +805,12 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [TeamViewer](https://www.teamviewer.com) | [@TeamViewer](https://twitter.com/teamviewer) | - | - |
 | [Screenmailer](https://www.screenmailer.com) | [@Screenmailer](https://twitter.com/screenmailer) | - | - |
+
+## Changelog
+
+| Service | Twitter | Pricing | Description |
+|:--------|:--------|:--------|:------------|
+| [UpdateMaker](https://updatemaker.com/) | [@mayakyler](https://twitter.com/mayakyler) | Free - $23/mo - $39/mo | Delightful in-app updates. Easily inform users of new features and changes to your product. Ditch the separate changelog, help users identify new features and engage with your audience. |
 
 ## DNS
 
